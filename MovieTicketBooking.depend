@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1386420876 source:c:\new\online c project batch 3\c project batch 3 28may\movieticketbooking\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 c:\new\online c project batch 3\c project batch 3 28may\movieticketbooking\conio2.h
+	<conio.h>
+	<windows.h>
+
+1661172315 source:c:\new\online c project batch 3\c project batch 3 28may\movieticketbooking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	<dir.h>
+	<errno.h>
+	"mtb.h"
+
+1661180829 source:c:\new\online c project batch 3\c project batch 3 28may\movieticketbooking\mtb.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	<string.h>
+	"mtb.h"
+	<time.h>
+
+1661172315 c:\new\online c project batch 3\c project batch 3 28may\movieticketbooking\mtb.h
+	<time.h>
+
+1386420876 source:e:\online c project batch 3\c project batch 3 28may\movieticketbooking\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 e:\online c project batch 3\c project batch 3 28may\movieticketbooking\conio2.h
+	<conio.h>
+	<windows.h>
+
+1661243825 source:e:\online c project batch 3\c project batch 3 28may\movieticketbooking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	<dir.h>
+	<errno.h>
+	"mtb.h"
+
+1661268608 e:\online c project batch 3\c project batch 3 28may\movieticketbooking\mtb.h
+	<time.h>
+
+1661346769 source:e:\online c project batch 3\c project batch 3 28may\movieticketbooking\mtb.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	<string.h>
+	"mtb.h"
+	<time.h>
+
+1386420876 source:c:\users\abhi\downloads\movieticketbooking\movieticketbooking\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 c:\users\abhi\downloads\movieticketbooking\movieticketbooking\conio2.h
+	<conio.h>
+	<windows.h>
+
+1661243826 source:c:\users\abhi\downloads\movieticketbooking\movieticketbooking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	<dir.h>
+	<errno.h>
+	"mtb.h"
+
+1661268610 c:\users\abhi\downloads\movieticketbooking\movieticketbooking\mtb.h
+	<time.h>
+
+1661346770 source:c:\users\abhi\downloads\movieticketbooking\movieticketbooking\mtb.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	<string.h>
+	"mtb.h"
+	<time.h>
+
